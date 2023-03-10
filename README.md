@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_kehiy" target="blank"><img src="https://img.shields.io/twitter/follow/_kehiy?logo=twitter&style=for-the-badge" alt="_kehiy" /></a> </p>
 
-- 🔭 I’m currently working on **ABX nft marketplace**
+- 🔭 I’m currently working on [ABX nft marketplace](https://github.com/orgs/Dapperico-Team/teams/abx-marketplace)
 
 - 🌱 I’m currently learning **golang**
 
