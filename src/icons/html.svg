@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <g id="html" transform="translate(-512 -952)">
+    <path id="Path_2591" data-name="Path 2591" d="M51.2,0H204.8A51.2,51.2,0,0,1,256,51.2V204.8A51.2,51.2,0,0,1,204.8,256H51.2A51.2,51.2,0,0,1,0,204.8V51.2A51.2,51.2,0,0,1,51.2,0Z" transform="translate(512 952)" fill="rgba(228,77,38,0.2)"/>
+    <g id="html-2" data-name="html" transform="translate(553.625 1016)">
+      <path id="Path_2635" data-name="Path 2635" d="M40.25,115,30,0H142.75L132.5,115,86.25,128" fill="#e34f26"/>
+      <path id="Path_2636" data-name="Path 2636" d="M256,145.75l37.25-10.25L302,37H256" transform="translate(-169.5 -27.75)" fill="#ef652a"/>
+      <path id="Path_2637" data-name="Path 2637" d="M149.5,122.5H130.75L129.5,108h20V94H114l.25,3.75,3.5,39H149.5Zm0,36.75h-.25L133.5,155l-1-11.25h-14L120.25,166l29,8h.25Z" transform="translate(-63 -70.5)" fill="#ebebeb"/>
+      <path id="Path_2638" data-name="Path 2638" d="M255,122.5v14.25h17.5L270.75,155,255,159.25V174l29-8,.25-2.5,3.25-37.25.5-3.75H255ZM255,94v14h34.25l.25-3,.75-7.25L290.5,94Z" transform="translate(-168.75 -70.5)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

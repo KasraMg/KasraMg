@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="1.158" x2="0" y2="2.158" gradientUnits="objectBoundingBox">
+      <stop offset="0.003" stop-color="#e44857"/>
+      <stop offset="0.469" stop-color="#c711e1"/>
+      <stop offset="1" stop-color="#7f52ff"/>
+    </linearGradient>
+  </defs>
+  <g id="kotlin" transform="translate(-512 -952)">
+    <path id="Path_2591" data-name="Path 2591" d="M51.2,0H204.8A51.2,51.2,0,0,1,256,51.2V204.8A51.2,51.2,0,0,1,204.8,256H51.2A51.2,51.2,0,0,1,0,204.8V51.2A51.2,51.2,0,0,1,51.2,0Z" transform="translate(512 952)" fill="rgba(223,62,112,0.2)"/>
+    <g id="Logotypes" transform="translate(576 1016)">
+      <g id="Group_344" data-name="Group 344">
+        <path id="Path_2701" data-name="Path 2701" d="M128,128H0V0H128L64,64Z" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>

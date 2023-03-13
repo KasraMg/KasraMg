@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.954" y1="0.298" x2="-0.231" y2="0.837" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#087cfa"/>
+      <stop offset="0.02" stop-color="#0d7bfa"/>
+      <stop offset="0.37" stop-color="#5566f9"/>
+      <stop offset="0.66" stop-color="#8a57f8"/>
+      <stop offset="0.88" stop-color="#ab4ef7"/>
+      <stop offset="1" stop-color="#b74af7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.489" y1="0.385" x2="0.826" y2="0.05" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.139" y1="0.839" x2="0.86" y2="0.251" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#087cfa"/>
+      <stop offset="0.1" stop-color="#1598d3"/>
+      <stop offset="0.22" stop-color="#23b6aa"/>
+      <stop offset="0.35" stop-color="#2dcc8b"/>
+      <stop offset="0.46" stop-color="#35dd74"/>
+      <stop offset="0.57" stop-color="#39e767"/>
+      <stop offset="0.67" stop-color="#3bea62"/>
+    </linearGradient>
+  </defs>
+  <g id="goland" transform="translate(-512 -952)">
+    <path id="Path_2591" data-name="Path 2591" d="M51.2,0H204.8A51.2,51.2,0,0,1,256,51.2V204.8A51.2,51.2,0,0,1,204.8,256H51.2A51.2,51.2,0,0,1,0,204.8V51.2A51.2,51.2,0,0,1,51.2,0Z" transform="translate(512 952)" fill="rgba(8,124,250,0.2)"/>
+    <g id="GoLand_icon" transform="translate(571.5 1011.5)">
+      <path id="Path_2693" data-name="Path 2693" d="M95.793,41.63l15.253,33.827L84.94,120.123,68.86,81.083Z" transform="translate(21.453 12.377)" fill="url(#linear-gradient)"/>
+      <path id="Path_2694" data-name="Path 2694" d="M74.953,71.22l16.08,39.04L50.58,96.353Z" transform="translate(15.36 22.24)" fill="#b74af7"/>
+      <path id="Path_2695" data-name="Path 2695" d="M94.673,40.647,86.38,4.5H40.393L4.5,59.407,14.887,84.633,4.5,107.66,78.833,44.42Z" fill="url(#linear-gradient-2)"/>
+      <path id="Path_2696" data-name="Path 2696" d="M132.5,24.88,78.833,37.627,4.5,100.867l47.947,24.84,37.867-39.04Z" transform="translate(0 6.793)" fill="url(#linear-gradient-3)"/>
+      <path id="Path_2697" data-name="Path 2697" d="M22.5,22.5h80v80h-80Z" transform="translate(6 6)"/>
+      <g id="Group_343" data-name="Group 343" transform="translate(33.753 38.475)">
+        <path id="Path_2698" data-name="Path 2698" d="M28.13,71.25h30v5h-30Z" transform="translate(-25.877 -16.225)" fill="#fff"/>
+        <path id="Path_2699" data-name="Path 2699" d="M26.44,47.086v-.093A16.933,16.933,0,0,1,43.733,30.006a18.16,18.16,0,0,1,12.973,4.52l-4.573,5.52a12.173,12.173,0,0,0-8.627-3.373c-5.333,0-9.48,4.667-9.48,10.267v.093c0,6.04,4.147,10.467,10,10.467a11.56,11.56,0,0,0,6.827-1.987V50.766H43.547V44.5H57.853V58.82A21.427,21.427,0,0,1,43.76,64.06c-10.253,0-17.32-7.213-17.32-16.973Z" transform="translate(-26.44 -29.981)" fill="#fff"/>
+        <path id="Path_2700" data-name="Path 2700" d="M52.3,47.082v-.093A17.053,17.053,0,0,1,69.887,30c10.173,0,17.48,7.587,17.48,16.96v.093A17.053,17.053,0,0,1,69.793,64.122C59.607,64.055,52.3,56.469,52.3,47.082Zm27.48,0v-.093a10.013,10.013,0,0,0-9.987-10.32A9.867,9.867,0,0,0,59.9,46.9v.093a10.027,10.027,0,0,0,10,10.373,9.867,9.867,0,0,0,9.88-10.28Z" transform="translate(-17.82 -29.977)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

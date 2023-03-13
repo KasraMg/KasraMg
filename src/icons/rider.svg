@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.908" y1="0.821" x2="-0.191" y2="0.187" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dd1265"/>
+      <stop offset="0.48" stop-color="#dd1265"/>
+      <stop offset="0.94" stop-color="#fdb60d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.07" y1="0.073" x2="0.614" y2="0.93" gradientUnits="objectBoundingBox">
+      <stop offset="0.14" stop-color="#087cfa"/>
+      <stop offset="0.48" stop-color="#dd1265"/>
+      <stop offset="0.96" stop-color="#087cfa"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.323" y1="0.114" x2="0.617" y2="0.917" gradientUnits="objectBoundingBox">
+      <stop offset="0.28" stop-color="#dd1265"/>
+      <stop offset="0.97" stop-color="#fdb60d"/>
+    </linearGradient>
+  </defs>
+  <g id="rider" transform="translate(-512 -952)">
+    <path id="Path_2591" data-name="Path 2591" d="M51.2,0H204.8A51.2,51.2,0,0,1,256,51.2V204.8A51.2,51.2,0,0,1,204.8,256H51.2A51.2,51.2,0,0,1,0,204.8V51.2A51.2,51.2,0,0,1,51.2,0Z" transform="translate(512 952)" fill="rgba(254,40,87,0.2)"/>
+    <g id="Rider_icon" transform="translate(571.5 1011.62)">
+      <path id="Path_2710" data-name="Path 2710" d="M122.933,54.18,33.2,4.38,93.28,93.646l12.347-8.093Z" transform="translate(9.567 0)" fill="url(#linear-gradient)"/>
+      <path id="Path_2711" data-name="Path 2711" d="M82.677,33.37,71.437,5.89,46.57,30.37,56.743,119.2l24.093,12.68,37.64-21.987Z" transform="translate(14.023 0.503)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_2712" data-name="Path 2712" d="M42.767,4.38,4.5,30.153,18.727,118.06,55.42,132.166l47.427-38.52Z" transform="translate(0)" fill="url(#linear-gradient-3)"/>
+      <path id="Path_2713" data-name="Path 2713" d="M22.5,22.5h80v80h-80Z" transform="translate(6 6.04)"/>
+      <g id="Group_346" data-name="Group 346" transform="translate(38.473 38.411)">
+        <path id="Path_2714" data-name="Path 2714" d="M29.98,71.16h30v5h-30Z" transform="translate(-29.98 -16.151)" fill="#fff"/>
+        <path id="Path_2715" data-name="Path 2715" d="M30,29.926H43.733a12,12,0,0,1,8.76,3.053,9.44,9.44,0,0,1,2.587,6.88v.08a9.333,9.333,0,0,1-6.453,9.333l7.36,10.747H48.24L41.8,50.392H36.667v9.627H30ZM43.333,44.592c3.227,0,5.08-1.72,5.08-4.253v-.08c0-2.84-1.973-4.307-5.2-4.307H36.667v8.64Z" transform="translate(-29.973 -29.903)" fill="#fff"/>
+        <path id="Path_2716" data-name="Path 2716" d="M52.93,29.92H64.663c9.453,0,16,6.493,16,14.96v.093c0,8.467-6.533,15.04-16,15.04H52.93ZM59.6,35.893V54.027h5.12a8.573,8.573,0,0,0,9.067-8.987v-.08a8.653,8.653,0,0,0-9.067-9.08Z" transform="translate(-22.33 -29.897)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

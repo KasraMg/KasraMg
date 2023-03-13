@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.553" y1="0.776" x2="0.395" y2="0.331" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fe2857"/>
+      <stop offset="0.06" stop-color="#fe3052"/>
+      <stop offset="0.33" stop-color="#fd533b"/>
+      <stop offset="0.58" stop-color="#fc6c2a"/>
+      <stop offset="0.81" stop-color="#fc7b20"/>
+      <stop offset="1" stop-color="#fc801d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.075" y1="0.029" x2="0.502" y2="0.363" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6b57ff"/>
+      <stop offset="1" stop-color="#fe2857"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.005" y1="0.08" x2="0.786" y2="0.975" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6b57ff"/>
+      <stop offset="0.3" stop-color="#fe2857"/>
+      <stop offset="0.63" stop-color="#fe2857"/>
+      <stop offset="0.64" stop-color="#fe3052"/>
+      <stop offset="0.7" stop-color="#fd533b"/>
+      <stop offset="0.76" stop-color="#fc6c2a"/>
+      <stop offset="0.81" stop-color="#fc7b20"/>
+      <stop offset="0.85" stop-color="#fc801d"/>
+    </linearGradient>
+  </defs>
+  <g id="rubymine" transform="translate(-512 -952)">
+    <path id="Path_2591" data-name="Path 2591" d="M51.2,0H204.8A51.2,51.2,0,0,1,256,51.2V204.8A51.2,51.2,0,0,1,204.8,256H51.2A51.2,51.2,0,0,1,0,204.8V51.2A51.2,51.2,0,0,1,51.2,0Z" transform="translate(512 952)" fill="rgba(254,40,87,0.2)"/>
+    <g id="RubyMine_icon" transform="translate(572.5 1011.5)">
+      <path id="Path_2661" data-name="Path 2661" d="M103.627,4.5,67,17.62,38.133,4.5,28.627,28.447H22.48V99.14l88.893.773,13.8-70.4Z" transform="translate(6.327 0)" fill="url(#linear-gradient)"/>
+      <path id="Path_2662" data-name="Path 2662" d="M97.143,47.617,38.65,12.95,97.143,81.51Z" transform="translate(11.717 2.817)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_2663" data-name="Path 2663" d="M56.78,126.377,104.62,120l-7.427-14.28H108.86V81.537L50.353,12.87,3.5,24.377l.053,67.2L30.487,129.71l26.147-3.32.12-.013Z" transform="translate(0 2.79)" fill="url(#linear-gradient-3)"/>
+      <path id="Path_2664" data-name="Path 2664" d="M22.5,22.5h80v80h-80Z" transform="translate(6.333 6)"/>
+      <g id="Group_339" data-name="Group 339" transform="translate(38.807 38.46)">
+        <path id="Path_2665" data-name="Path 2665" d="M29.98,71.16h30v5h-30Z" transform="translate(-29.98 -16.24)" fill="#fff"/>
+        <path id="Path_2666" data-name="Path 2666" d="M52.21,29.97h7.133L67.25,42.69l7.907-12.72H82.29V60.037H75.717V40.41L67.25,53.25h-.173L58.7,40.543V60.037H52.21Z" transform="translate(-22.57 -29.97)" fill="#fff"/>
+        <path id="Path_2667" data-name="Path 2667" d="M30,30H43.733q5.707,0,8.747,3.04a9.333,9.333,0,0,1,2.573,6.867V40a9.333,9.333,0,0,1-1.787,5.933,10.32,10.32,0,0,1-4.653,3.373L55.96,59.973H48.227L42,50.76H36.547v9.227H30ZM43.333,44.547a5.493,5.493,0,0,0,3.693-1.213A4,4,0,0,0,48.36,40.24v-.08a3.8,3.8,0,0,0-1.333-3.213,6.04,6.04,0,0,0-3.813-1.08h-6.64v8.627Z" transform="translate(-29.973 -29.96)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

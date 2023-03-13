@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.289" y1="0.51" x2="2.586" y2="0.419" gradientUnits="objectBoundingBox">
+      <stop offset="0.09" stop-color="#fc801d"/>
+      <stop offset="0.23" stop-color="#b07f61"/>
+      <stop offset="0.41" stop-color="#577db3"/>
+      <stop offset="0.53" stop-color="#1e7ce6"/>
+      <stop offset="0.59" stop-color="#087cfa"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.736" y1="1.148" x2="0.355" y2="0.011" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fe2857"/>
+      <stop offset="0.08" stop-color="#cb3979"/>
+      <stop offset="0.16" stop-color="#9e4997"/>
+      <stop offset="0.25" stop-color="#7557b2"/>
+      <stop offset="0.34" stop-color="#5362c8"/>
+      <stop offset="0.44" stop-color="#386cda"/>
+      <stop offset="0.54" stop-color="#2373e8"/>
+      <stop offset="0.66" stop-color="#1478f2"/>
+      <stop offset="0.79" stop-color="#0b7bf8"/>
+      <stop offset="1" stop-color="#087cfa"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.189" y1="0.236" x2="0.962" y2="1.298" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fe2857"/>
+      <stop offset="0.08" stop-color="#fe295f"/>
+      <stop offset="0.21" stop-color="#ff2d76"/>
+      <stop offset="0.3" stop-color="#ff318c"/>
+      <stop offset="0.38" stop-color="#ea3896"/>
+      <stop offset="0.55" stop-color="#b248ae"/>
+      <stop offset="0.79" stop-color="#5a63d6"/>
+      <stop offset="1" stop-color="#087cfa"/>
+    </linearGradient>
+  </defs>
+  <g id="intellij" transform="translate(-512 -952)">
+    <path id="Path_2591" data-name="Path 2591" d="M51.2,0H204.8A51.2,51.2,0,0,1,256,51.2V204.8A51.2,51.2,0,0,1,204.8,256H51.2A51.2,51.2,0,0,1,0,204.8V51.2A51.2,51.2,0,0,1,51.2,0Z" transform="translate(512 952)" fill="rgba(254,40,87,0.2)"/>
+    <g id="IntelliJ_IDEA_icon" transform="translate(571.93 1011.5)">
+      <path id="Path_2646" data-name="Path 2646" d="M23.977,81.057,5.15,66.19,16.23,45.67l16.653,5.573Z" transform="translate(0.36 13.723)" fill="url(#linear-gradient)"/>
+      <path id="Path_2647" data-name="Path 2647" d="M119.687,30.09l-2.307,74.133L68.073,123.97,41.22,106.637Z" transform="translate(12.383 8.53)" fill="#087cfa"/>
+      <path id="Path_2648" data-name="Path 2648" d="M114,38.1,89.6,61.9,58.27,23.457,73.737,6.07Z" transform="translate(18.067 0.523)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_2649" data-name="Path 2649" d="M53.6,115.167,14.39,129.34,22.6,100.58l10.64-35.613L4.07,55.207,22.6,4.5,64.5,9.447,107.67,62.42Z" transform="translate(0)" fill="url(#linear-gradient-3)"/>
+      <path id="Path_2650" data-name="Path 2650" d="M22.5,22.5h80v80h-80Z" transform="translate(6.143 6)"/>
+      <g id="Group_337" data-name="Group 337" transform="translate(38.617 38.5)">
+        <path id="Path_2651" data-name="Path 2651" d="M29.98,71.16h30v5h-30Z" transform="translate(-29.98 -16.28)" fill="#fff"/>
+        <path id="Path_2652" data-name="Path 2652" d="M44.94,35.487V30.02H30.02v5.467h4.187v18.88H30.02v5.467H44.94V54.367H40.767V35.487Z" transform="translate(-29.967 -29.993)" fill="#fff"/>
+        <path id="Path_2653" data-name="Path 2653" d="M54.377,60.267a11.84,11.84,0,0,1-5.853-1.333,13.547,13.547,0,0,1-3.893-3.147l4.12-4.6a11.814,11.814,0,0,0,2.587,2.187,5.333,5.333,0,0,0,2.867.8,3.8,3.8,0,0,0,2.92-1.16A5.547,5.547,0,0,0,58.19,49.24V30h6.667V49.533a13.52,13.52,0,0,1-.733,4.653A8.653,8.653,0,0,1,58.7,59.52a13.16,13.16,0,0,1-4.413.693" transform="translate(-25.097 -30)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

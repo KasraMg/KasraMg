@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_2634" data-name="Path 2634" d="M0,0H128V76.8H0Z" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="tailwindcss" transform="translate(-512 -952)">
+    <path id="Path_2591" data-name="Path 2591" d="M51.2,0H204.8A51.2,51.2,0,0,1,256,51.2V204.8A51.2,51.2,0,0,1,204.8,256H51.2A51.2,51.2,0,0,1,0,204.8V51.2A51.2,51.2,0,0,1,51.2,0Z" transform="translate(512 952)" fill="rgba(56,189,248,0.2)"/>
+    <g id="tailwindcss_logo" transform="translate(576 1042)" clip-path="url(#clip-path)">
+      <path id="Path_2633" data-name="Path 2633" d="M64,0Q38.4,0,32,25.6,41.6,12.8,54.4,16c4.869,1.216,8.348,4.75,12.2,8.659C72.873,31.027,80.135,38.4,96,38.4q25.6,0,32-25.6-9.6,12.8-22.4,9.6c-4.869-1.216-8.348-4.75-12.2-8.659C87.123,7.372,79.86,0,64,0ZM32,38.4Q6.4,38.4,0,64q9.6-12.8,22.4-9.6c4.869,1.218,8.348,4.75,12.2,8.659C40.874,69.426,48.136,76.8,64,76.8q25.6,0,32-25.6Q86.4,64,73.6,60.8c-4.869-1.216-8.348-4.75-12.2-8.659C55.124,45.771,47.861,38.4,32,38.4Z" fill="#38bdf8" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

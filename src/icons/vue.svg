@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <g id="vue" transform="translate(-512 -952)">
+    <path id="Path_2591" data-name="Path 2591" d="M51.2,0H204.8A51.2,51.2,0,0,1,256,51.2V204.8A51.2,51.2,0,0,1,204.8,256H51.2A51.2,51.2,0,0,1,0,204.8V51.2A51.2,51.2,0,0,1,51.2,0Z" transform="translate(512 952)" fill="rgba(66,184,131,0.2)"/>
+    <g id="vue_logo" transform="translate(576 1015)">
+      <path id="Path_2624" data-name="Path 2624" d="M78.8,10,64,35.4,49.2,10H0L64,120,128,10Z" fill="#42b883"/>
+      <path id="Path_2625" data-name="Path 2625" d="M78.8,10,64,35.4,49.2,10H25.6L64,76l38.4-66Z" fill="#35495e"/>
+    </g>
+  </g>
+</svg>
