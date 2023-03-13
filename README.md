@@ -37,7 +37,7 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="./src/icons/vscode.svg" />
   <a href="https://www.jetbrains.com/idea/" target="_blank"> <img class="icon" align="left" alt="IntelliJ IDEA" width="32px" src="./src/icons/intellij.svg" />
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img class="icon" align="left" alt="XD" width="32px" src="./src/icons/adobe/photoshop.svg"/> </a>
-  <a href="https://www.postman.com/" target="_blank"> <img class="icon" align="left" alt="XD" width="32px" src="./src/icons/adobe/postman.svg"/> </a>
+  <a href="https://www.postman.com/" target="_blank"> <img class="icon" align="left" alt="XD" width="32px" src="./src/icons/postman.svg"/> </a>
 </div>
 
 <br />
@@ -57,6 +57,6 @@
 </div>
 
 <!--
-[![Amit Kumar's Github Stats](https://github-readme-stats.vercel.app/api?username=AmitKumarHQ&include_all_commits=true&count_private=true&show_icons=true&line_height=30&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarHQ&layout=default&hide_border=true&card_width=495&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![kehiy's Github Stats](https://github-readme-stats.vercel.app/api?username=kehiy&include_all_commits=true&count_private=true&show_icons=true&line_height=30&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kehiy&layout=default&hide_border=true&card_width=495&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
