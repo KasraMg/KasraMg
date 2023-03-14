@@ -42,21 +42,3 @@
 
 <br />
 <br />
-
-<h1><img width="24px" src="./src/icons/github_icons/insights.svg" alt="Stats"/> Stats </h1>
-
-<div class="container" >
-  <br/>
-  <a href="https://github.com/kehiy">
-    <img align= "center" src="https://github-readme-stats.vercel.app/api?username=kehiy&count_private=true&cache_seconds=7200&border_radius=10px&show_icons=true&bg_color=1C2128&text_color=adbac7&border_color=cdd9e51a"/>
-  </a>
-  <a>
-    <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kehiy&count_private=true&card_width=495&cache_seconds=7200&border_radius=10px&show_icons=true&bg_color=1C2128&text_color=adbac7&border_color=cdd9e51a" />
-  </a>
-  
-</div>
-
-<!--
-[![kehiy's Github Stats](https://github-readme-stats.vercel.app/api?username=kehiy&include_all_commits=true&count_private=true&show_icons=true&line_height=30&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kehiy&layout=default&hide_border=true&card_width=495&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
