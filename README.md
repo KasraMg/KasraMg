@@ -16,7 +16,7 @@
 ### Languages and Tools
 
 <div>
-  <a href="https://react.dev/" target="_blank"><img class="icon" align="left" alt="C" width="32px" src="https://img.icons8.com/color/48/null/c-programming.png" />
+  <a href="https://react.dev/" target="_blank"><img class="icon" align="left" alt="C" width="32px" src="https://img.icons8.com/?size=200&id=NfbyHexzVEDk&format=png" />
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="https://img.icons8.com/fluency/48/null/javascript.png" />
 
