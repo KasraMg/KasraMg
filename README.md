@@ -34,8 +34,7 @@
 
 <div>
   <a href="https://code.visualstudio.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" />
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img class="icon" align="left" alt="photoshop" width="32px" src="https://img.icons8.com/fluency/48/null/adobe-photoshop.png"/> </a>
-  <a href="https://www.postman.com/" target="_blank"> <img class="icon" align="left" alt="postman" width="32px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/> </a>
+
 </div>
 
 <br />
