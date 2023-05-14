@@ -17,15 +17,13 @@
 
 <div>
   <a href="https://react.dev/" target="_blank"><img class="icon" align="left" alt="C" width="32px" src="https://img.icons8.com/color/48/null/c-programming.png" />
-  <a href="https://go.dev/" target="_blank"><img class="icon" align="left" alt="react" width="32px" src="https://img.icons8.com/?size=200&id=NfbyHexzVEDk&format=png" />
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="https://img.icons8.com/fluency/48/null/javascript.png" />
-  <a href="https://www.python.org/" target="_blank"><img class="icon" align="left" alt="python" width="32px" src="https://img.icons8.com/3d-fluency/94/null/python.png" />
-  <a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left" alt="typescript" width="32px" src="https://img.icons8.com/fluency/48/null/typescript--v2.png" />
-  <a href="https://nodejs.org/" target="_blank"><img class="icon" align="left" alt="Node.js" width="32px" src="https://img.icons8.com/fluency/48/null/node-js.png" />
-  <a href="https://www.mongodb.com/" target="_blank"> <img class="icon" align="left" alt="MongoDB" width="32px" src="https://img.icons8.com/color/48/null/mongodb.png" />
+
+
   <a href="https://git-scm.com/" target="_blank"> <img class="icon" align="left" alt="git" width="32px" src="https://img.icons8.com/color/48/null/git.png"/>
   <a href="https://github.com/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="https://img.icons8.com/3d-fluency/94/null/github.png" />
-  <a href="https://www.rust-lang.org/" target="_blank"> <img class="icon" align="left" alt="rust" width="32px" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/null/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png" />
+
 </div>
 
 <br />
