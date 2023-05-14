@@ -16,8 +16,8 @@
 ### Languages and Tools
 
 <div>
-  <a href="https://www.w3schools.com/c/" target="_blank"><img class="icon" align="left" alt="C" width="32px" src="https://img.icons8.com/color/48/null/c-programming.png" />
-  <a href="https://go.dev/" target="_blank"><img class="icon" align="left" alt="go" width="32px" src="https://img.icons8.com/color/48/null/golang.png" />
+  <a href="https://react.dev/" target="_blank"><img class="icon" align="left" alt="C" width="32px" src="https://img.icons8.com/color/48/null/c-programming.png" />
+  <a href="https://go.dev/" target="_blank"><img class="icon" align="left" alt="react" width="32px" src="https://img.icons8.com/?size=200&id=NfbyHexzVEDk&format=png" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="https://img.icons8.com/fluency/48/null/javascript.png" />
   <a href="https://www.python.org/" target="_blank"><img class="icon" align="left" alt="python" width="32px" src="https://img.icons8.com/3d-fluency/94/null/python.png" />
   <a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left" alt="typescript" width="32px" src="https://img.icons8.com/fluency/48/null/typescript--v2.png" />
