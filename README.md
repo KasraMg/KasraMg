@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTFrlWBlkKqg2bBqvfaNNpelh0Qw7HIlUI8Q&usqp=CAU">
+<img  src="./src/image/gittt.PNG">
 <br/>
 
 # Hey There, I'm Kasra!
