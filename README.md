@@ -1,4 +1,4 @@
-<img  src="./src/image/gittt.PNG" width="272px" />
+<img  src="./src/image/gittt.PNG" width="772px" />
 <br/>
 
 # Hey There, I'm Kasra!
