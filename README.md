@@ -8,7 +8,6 @@
 <br />
 <br />
 
-<p style='font-size:2rem'> Contact Me</p>
 
 <br />
 <a href="https://github.com/KasraMg" target="_blank"><img class="icon"  width="30px" align="left" alt="Github"  src="https://img.icons8.com/3d-fluency/94/null/github.png" /></a>
