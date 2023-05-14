@@ -3,8 +3,9 @@
 
 # Hey There, I'm Kasra!
 
-<img class="icon" align="left" alt="Github" width="30px" src="file:///C:/Users/melal/Downloads/gittt.PNG" />
-
+<img class="icon" align="left" alt="frontend" width="30px" src="/melal/Downloads/gittt.PNG" />
+<br />
+<br />
 <a href="https://github.com/KasraMg" target="_blank"><img class="icon" align="left" alt="Github" width="30px" src="https://img.icons8.com/3d-fluency/94/null/github.png" /></a>
 <a href="https://instagram.com/_ka.s.ra_?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img class="icon" align="left" alt="instagram" width="30px" src="https://img.icons8.com/3d-fluency/94/null/instagram-new.png" /></a>
 <a href="http://T.me/shahiinnnnn" target="_blank"><img class="icon" align="left" alt="telegram" width="30px" src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png" /></a>
