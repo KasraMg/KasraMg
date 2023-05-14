@@ -1,4 +1,4 @@
-<img src="./sec/../src/Banner%20Ultrawide.png" style="box-shadow: 3px 3px 10px #00000035">
+<img src="https://png.pngtree.com/background/20211215/original/pngtree-data-code-red-abstract-background-picture-image_1466861.jpg" style="box-shadow: 3px 3px 10px #00000035">
 <br/>
 
 # Hey There, I'm Kasra!
