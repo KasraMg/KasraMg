@@ -3,7 +3,7 @@
 
 # Hey There, I'm Kasra!
 
-<img class="icon" align="left" alt="frontend" width="30px" src="/melal/Downloads/gittt.PNG" />
+<img class="icon" align="left" alt="frontend" width="30px" src="/gittt.PNG" />
 <br />
 <br />
 <a href="https://github.com/KasraMg" target="_blank"><img class="icon" align="left" alt="Github" width="30px" src="https://img.icons8.com/3d-fluency/94/null/github.png" /></a>
