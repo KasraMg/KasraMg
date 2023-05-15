@@ -1,5 +1,4 @@
-<img  src="https://png.pngtree.com/background/20211215/original/pngtree-data-code-red-abstract-background-picture-image_1466861.jpg" />
-<br/>
+
 
 # Hey There, I'm Kasra!
 
