@@ -26,7 +26,7 @@
       <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><img class="icon" align="left" alt="css" width="32px" src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png" />
  <a href=" https://redux.js.org/" target="_blank"><img class="icon" align="left" alt="redux" width="32px" src="https://img.icons8.com/?size=100&id=egQrEphjrirz&format=png" />
    
- <a href="[ https://redux.js.org/](https://web.dev/progressive-web-apps/)" target="_blank"><img class="icon" align="left" alt="pwa" width="32px" src=" https://arazcloud.com/blog/wp-content/uploads/2021/05/pwa-progressive-web-app-latest-website-vector-26986545-1.jpg" />
+ <a href="[ https://redux.js.org/](https://web.dev/progressive-web-apps/)" target="_blank"><img class="icon" align="left" alt="pwa" width="32px" src="https://s3-alpha-sig.figma.com/plugins/771341909571444129/1634/dc4fc42c-11d6-4e2b-ba12-10408bf527f6-cover?Expires=1686528000&Signature=nMpg6VqJ~6abg-fAHSqmk-I9OJOixUVSqILYkaA7JTemrpJ76Fmpk-oRSq0XLHF~xtSieyklP~3v3vkuBvLTJa3nojRKbLixFAcoGDJ5-vE7Ni~wABrZMtJqcmj5F5S6WhfVTIaHDRI1k0Jcw5D6JWxO1eOhiOrgz6MUC0dbYQe-dPZxiEhR1Zq-6F7IN-0gIsZrwOodOCjyqXaPQ62pBq3iS7svnulQHf7zseS0wnn2J3HMrAU-b8lb8Tx4sGSXINipia1yY5Cz6vZw4cy3MnFo7xtJU-wLzFp3mmFsaAyLfuS-4GbuVVezCUTjceodvRJ7gs1ktUKaf89cTotTSg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" />
    
   <a href="https://git-scm.com/" target="_blank"> <img class="icon" align="left" alt="git" width="32px" src="https://img.icons8.com/color/48/null/git.png"/>
   <a href="https://github.com/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="https://img.icons8.com/3d-fluency/94/null/github.png" />
