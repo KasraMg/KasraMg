@@ -28,7 +28,7 @@
    
  <a href="https://web.dev/progressive-web-apps/" target="_blank"><img class="icon" align="left" alt="pwa" width="32px" src="https://ps.w.org/pwa/assets/icon.svg?rev=1908485" />
    
-  <a href="https://git-scm.com/" target="_blank"> <img class="icon" align="left" alt="git" width="32px" src="https://img.icons8.com/color/48/null/git.png"/>
+
   <a href="https://github.com/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="https://img.icons8.com/3d-fluency/94/null/github.png" />
 
 </div>
