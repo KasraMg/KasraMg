@@ -25,7 +25,7 @@
       <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><img class="icon" align="left" alt="css" width="32px" src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png" />
  <a href=" https://redux.js.org/" target="_blank"><img class="icon" align="left" alt="redux" width="32px" src="https://img.icons8.com/?size=100&id=egQrEphjrirz&format=png" />
    
- <a  href="[ https://redux.js.org/](https://web.dev/progressive-web-apps/)" target="_blank"><img style=' width: 51px; margin-top:.5rem' class="icon" align="left" alt="pwa"  src="https://www.4xtreme.com/wp-content/uploads/2019/10/pwa.png" />
+ <a  href="[ https://redux.js.org/](https://web.dev/progressive-web-apps/)" target="_blank"><img style=' width: 51px' height='31px' class="icon" align="left" alt="pwa"  src="https://www.4xtreme.com/wp-content/uploads/2019/10/pwa.png" />
    
   <a href="https://git-scm.com/" target="_blank"> <img class="icon" align="left" alt="git" width="32px" src="https://img.icons8.com/color/48/null/git.png"/>
   <a href="https://github.com/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="https://img.icons8.com/3d-fluency/94/null/github.png" />
