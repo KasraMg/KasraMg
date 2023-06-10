@@ -1,6 +1,6 @@
  
 
-## My Name Is Kasra And Im a <br/>   Front-End Developer.
+## My Name Is Kasra And Im a <br style='margin-top:.5rem'/>   Front-End Developer.
  
 <img class="icon" align="left" alt="frontend" width="172px" src="./src/image/gittt.PNG" />
 <br />
