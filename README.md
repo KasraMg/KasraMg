@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome&height=100&section=header"/>
 </p> 
 
-## Hi My Name Is Kasra </br>Im A FrontEnd Developer.
+<h1 style='font-family: cursive;'> Hi My Name Is Kasra </br>Im A FrontEnd Developer.</h1>
  
 <img class="icon" align="left" alt="frontend" width="172px" src="./src/image/gittt.PNG" />
 <br />
