@@ -5,8 +5,7 @@
 <h1>Hi Body 😍</h1> 
 <p>🐱‍👤🐱‍👤 My Name Is Kasra & Im A FrontEnd Developer.</p>
  <p>😎😎 Current Time Im Wonk in Sabzlearn Company.</p>   
-
- <p>💖💖 I want to be a good boy For My Family</p>   
+ 
  
 ### social network 
  
