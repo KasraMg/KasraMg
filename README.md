@@ -3,9 +3,8 @@
 </p> 
 
 <p>Hi Body 😍</p> 
-<p>  My Name Is Kasra & Im A FrontEnd Developer.</p>
- <p> Current Time Im Wonk in Sabzlearn Company.</p>
-  <p> Current Time Im Wonk in Sabzlearn Company.</p>
+<p>🐱‍👤🐱‍👤 My Name Is Kasra & Im A FrontEnd Developer.</p>
+ <p>😎😎 Current Time Im Wonk in Sabzlearn Company.</p> 
 <img class="icon" align="left" alt="frontend" width="172px" src="./src/image/gittt.PNG" />
 <br />
 <br />
