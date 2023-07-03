@@ -3,7 +3,7 @@
 </p> 
 
 <h1>Hi Body 😍</h1> 
-<p>🐱‍👤🐱‍👤 My Name Is Kasra & Im A FrontEnd Developer.</p> 
+<h3>🐱‍👤🐱‍👤 My Name Is Kasra & Im A FrontEnd Developer.</h3> 
  
  
 ### social network 
