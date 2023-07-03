@@ -2,10 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome&height=100&section=header"/>
 </p> 
 
-<p>Hi Body 😍</p> 
+<h1>Hi Body 😍</h1> 
 <p>🐱‍👤🐱‍👤 My Name Is Kasra & Im A FrontEnd Developer.</p>
- <p>😎😎 Current Time Im Wonk in Sabzlearn Company.</p> 
-<img class="icon" align="left" alt="frontend" width="172px" src="./src/image/gittt.PNG" />
+ <p>😎😎 Current Time Im Wonk in Sabzlearn Company.</p>  
 <br />
 <br />
 <br />
