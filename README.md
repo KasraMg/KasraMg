@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome&height=100&section=header"/>
 </p> 
 
-<h1>Hi Body 😍</h1> 
+<h1>Hi Buddy 😍</h1> 
 <h3>🐱‍👤🐱‍👤 My Name Is Kasra & Im A FrontEnd Developer.</h3> 
 <h4>🎈🎈Check This  <a href='https://kasra-hastam.iran.liara.run/'>Url</a> For More Info About Me  </h4>
  
