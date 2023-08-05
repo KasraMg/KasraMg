@@ -27,7 +27,7 @@
 
   <a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left"   width="35px" src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" />
           
- <a href=" https://redux.js.org/" target="_blank"><img class="icon" align="left" alt="redux" width="32px" src="https://img.icons8.com/?size=100&id=egQrEphjrirz&format=png" />
+ <a href=" https://redux.js.org/" target="_blank"><img class="icon" align="left" alt="redux" width="32px" src="https://img.icons8.com/?size=512&id=jD-fJzVguBmw&format=png" />
    
  <a  href="[ https://redux.js.org/](https://web.dev/progressive-web-apps/)" target="_blank"><img style=' width: 51px' height='31px' class="icon" align="left" alt="pwa"  src="https://www.4xtreme.com/wp-content/uploads/2019/10/pwa.png" />
    
