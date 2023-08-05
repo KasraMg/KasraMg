@@ -22,10 +22,10 @@
 <div>
   <a href="https://react.dev/" target="_blank"><img class="icon" align="left" alt="react" width="32px" src="https://img.icons8.com/?size=200&id=NfbyHexzVEDk&format=png" />
   <a href="https://getbootstrap.com/" target="_blank"><img class="icon" align="left" alt="react" width="32px" src="https://img.icons8.com/?size=512&id=66TslYQuFETx&format=png" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="Javascript" width="35px" src="https://img.icons8.com/fluency/48/null/javascript.png" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="Javascript" width="40px" src="https://img.icons8.com/fluency/48/null/javascript.png" />
    
 
-  <a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left"   width="35px" src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" />
+  <a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left"   width="40px" src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" />
           
  <a href=" https://redux.js.org/" target="_blank"><img class="icon" align="left" alt="redux" width="32px" src="https://img.icons8.com/?size=100&id=egQrEphjrirz&format=png" />
    
