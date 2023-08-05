@@ -40,6 +40,7 @@
 
 <div>
   <a href="https://code.visualstudio.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" />
+  <a href="https://www.figma.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/?size=512&id=W0YEwBDDfTeu&format=png" />
 
 </div>
 
