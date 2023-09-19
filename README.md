@@ -55,4 +55,4 @@
 <br />
 <br />
 
-<img src='https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true'/>
+<img style="margin-top:3rem" src='https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true'/>
