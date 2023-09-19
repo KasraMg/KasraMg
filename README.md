@@ -49,10 +49,10 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" />
   <a href="https://www.figma.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/?size=512&id=W0YEwBDDfTeu&format=png" />
   <a href="https://www.postman.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/?size=512&id=EPbEfEa7o8CB&format=png" />
-
+<br />
+<br />
 </div>
 
-<br />
-<br />
 
-<img style="margin-top:3rem" src='https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true'/>
+
+<img  src='https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true'/>
