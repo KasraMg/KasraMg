@@ -5,8 +5,8 @@
 <h1>Hi Buddy 😍</h1> 
 <h3>🐱‍👤🐱‍👤 My Name Is Kasra & Im A FrontEnd Developer.</h3> 
 <h4>🎈🎈Check This  <a href='https://kasra-hastam.iran.liara.run/'>Url</a> For More Info About Me  </h4>
- ![image](dino.gif)
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+
+ <img src='https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true'/>
  
 ### social network 
  
