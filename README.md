@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome&height=100&section=header"/>
 </p> 
 
-<p style="font-size:2rem;">Hi Buddy 😍</p> 
-<p style="font-size:2rem;">🐱‍👤🐱‍👤 My Name Is Kasra & Im A FrontEnd Developer.</p> 
+<h2>Hi Buddy 😍</h2> 
+<p>🐱‍👤🐱‍👤 My Name Is Kasra & Im A FrontEnd Developer.</p> 
 <p>🎈🎈Check This  <a href='https://kasra-hastam.iran.liara.run/'>Url</a> For More Info About Me </a> </p>
 
  
