@@ -29,7 +29,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left"   width="35px" src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" />
           
  <a href=" https://redux.js.org/" target="_blank"><img class="icon" align="left" alt="redux" width="32px" src="https://img.icons8.com/?size=512&id=jD-fJzVguBmw&format=png" />
- <a href=" https://nextjs.org/" target="_blank"><img class="icon" align="left" alt="redux" width="32px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" />
+ <a href=" https://nextjs.org/" target="_blank"><img class="icon" align="left" alt="redux" width="32px" src="https://mfg.fhstp.ac.at/cms/wp-content/uploads/2022/02/800px-Nextjs-logo.svg_.png" />
     <a href="https://tailwindcss.com/" target="_blank"> <img class="icon" align="left"   width="32px" src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png" />
     <a href="https://mui.com/" target="_blank"> <img class="icon" align="left"   width="32px" src="https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png" />
     
