@@ -33,7 +33,7 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img class="icon" align="left"   width="32px" src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png" />
     <a href="https://mui.com/" target="_blank"> <img class="icon" align="left"   width="32px" src="https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png" />
     
- <a  href="[ https://redux.js.org/](https://web.dev/progressive-web-apps/)" target="_blank"><img style=' width: 51px' height='31px' class="icon" align="left" alt="pwa"  src="https://www.4xtreme.com/wp-content/uploads/2019/10/pwa.png" />
+ <a  href="https://web.dev/explore/progressive-web-apps" target="_blank"><img style=' width: 51px' height='31px' class="icon" align="left" alt="pwa"  src="https://iranhost.com/blog/wp-content/uploads/2022/09/what-is-pwa-app.webp" />
    
   
   <a href="https://github.com/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="https://img.icons8.com/3d-fluency/94/null/github.png" />
