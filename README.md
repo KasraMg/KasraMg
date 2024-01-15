@@ -11,13 +11,11 @@
 <div>
  <a   href="https://github.com/KasraMg">
     <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-<p></p>
+  </a> 
    <a  href="https://instagram.com/_ka.s.ra_?igshid=ZGUzMzM3NWJiOQ==" >
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
- 
-<p></p>
+  
    <a  href="www.linkedin.com/in/kasramg85">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
