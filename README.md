@@ -10,7 +10,7 @@
  
 ### social network 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github,instagram,linkedin" />
   </a>
 <a href="https://github.com/KasraMg" target="_blank"><img class="icon"  width="30px" align="left" alt="Github"  src="https://img.icons8.com/3d-fluency/94/null/github.png" /></a>
 <a href="https://instagram.com/_ka.s.ra_?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img class="icon" align="left" alt="instagram" width="30px" src="https://img.icons8.com/3d-fluency/94/null/instagram-new.png" /></a>
