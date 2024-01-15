@@ -6,16 +6,18 @@
 <p>🐱‍👤🐱‍👤 My Name Is Kasra & Im A FrontEnd Developer.</p> 
 <p>🎈🎈Check This  <a href='https://kasra-hastam.iran.liara.run/'>Url</a> For More Info About Me </a> </p>
 
- 
- 
+  
 ### social network 
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,instagram,linkedin" />
+ <a  href="https://github.com/KasraMg">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-<a href="https://github.com/KasraMg" target="_blank"><img class="icon"  width="30px" align="left" alt="Github"  src="https://img.icons8.com/3d-fluency/94/null/github.png" /></a>
-<a href="https://instagram.com/_ka.s.ra_?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img class="icon" align="left" alt="instagram" width="30px" src="https://img.icons8.com/3d-fluency/94/null/instagram-new.png" /></a>
-<a href="http://T.me/shahiinnnnn" target="_blank"><img class="icon" align="left" alt="telegram" width="30px" src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png" /></a>
-
+   <a href="https://instagram.com/_ka.s.ra_?igshid=ZGUzMzM3NWJiOQ==" >
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+   <a href="www.linkedin.com/in/kasramg85">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+ 
 
 <br />
 <br />
