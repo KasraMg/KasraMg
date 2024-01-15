@@ -9,15 +9,15 @@
   
 ### social network 
 <div>
- <a style="text-decoration: none;" href="https://github.com/KasraMg">
+ <a   href="https://github.com/KasraMg">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
- 
-   <a style="text-decoration: none;" href="https://instagram.com/_ka.s.ra_?igshid=ZGUzMzM3NWJiOQ==" >
+ <br />
+   <a  href="https://instagram.com/_ka.s.ra_?igshid=ZGUzMzM3NWJiOQ==" >
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
- 
-   <a style="text-decoration: none;" href="www.linkedin.com/in/kasramg85">
+ <br />
+   <a  href="www.linkedin.com/in/kasramg85">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
  
