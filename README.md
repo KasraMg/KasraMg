@@ -3,8 +3,8 @@
 </p> 
 
  ه
-<p  align="left">
- <img  width="32px" src="https://s8.uupload.ir/files/1111-removebg-preview_a260.png"/>
+<p align="left">
+ <img width="300px" src="https://s8.uupload.ir/files/1111-removebg-preview_a260.png"/>
 </p>
 <h1>Hi Buddy 😍</h1> 
 <p>🐱‍👤🐱‍👤 My Name Is Kasra & Im A FrontEnd Developer.</p> 
