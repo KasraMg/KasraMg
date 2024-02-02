@@ -1,9 +1,9 @@
-<p align="center">
+<div >
     <h1>Hi Buddy 😍</h1> 
 <p>🐱‍👤🐱‍👤 My Name Is Kasra & Im A FrontEnd Developer.</p> 
 <p>🎈🎈Check This  <a href='https://kasra-hastam.iran.liara.run/'>Url</a> For More Info About Me </a> </p>
    <img width="300px" src="https://s8.uupload.ir/files/1111-removebg-preview_a260.png" />
-</p> 
+</div> 
 
  
 
