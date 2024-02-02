@@ -2,10 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome&height=100&section=header"/>
 </p> 
 
- ه
-<p align="left">
- <img width="300px" src="https://s8.uupload.ir/files/1111-removebg-preview_a260.png"/>
-</p>
+ 
+
 <h1>Hi Buddy 😍</h1> 
 <p>🐱‍👤🐱‍👤 My Name Is Kasra & Im A FrontEnd Developer.</p> 
 <p>🎈🎈Check This  <a href='https://kasra-hastam.iran.liara.run/'>Url</a> For More Info About Me </a> </p>
@@ -58,5 +56,9 @@
 
 
 
-
+<div>
+    <p align="left">
+ <img width="300px" src="https://s8.uupload.ir/files/1111-removebg-preview_a260.png"/>
+</p>
 <img  src='https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true'/>
+</div>
