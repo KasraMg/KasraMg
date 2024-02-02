@@ -55,10 +55,11 @@
 <br />
 
 
-
-<div>
-    <p align="left">
- <img width="300px" src="https://s8.uupload.ir/files/1111-removebg-preview_a260.png"/>
-</p>
-<img  src='https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true'/>
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img width="300px" src="https://s8.uupload.ir/files/1111-removebg-preview_a260.png"/>
+   <img  src='https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true'/>
+  </div>
 </div>
+
+ 
