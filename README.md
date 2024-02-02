@@ -1,5 +1,5 @@
-<p align="left">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome&height=100&section=header"/>
+<p align="center">
+    <img width="300px" src="https://s8.uupload.ir/files/1111-removebg-preview_a260.png" />
 </p> 
 
  
@@ -55,7 +55,6 @@
 <br />
 
 <div> 
-    <img width="300px" src="https://s8.uupload.ir/files/1111-removebg-preview_a260.png" />
     <img  src='https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true' />
 </div>
 
