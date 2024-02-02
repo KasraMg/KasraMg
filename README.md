@@ -4,7 +4,7 @@
 
  ه
 
- <img src="https://s8.uupload.ir/files/1111-removebg-preview_a260.png"/>
+ <img wifht="300px" src="https://s8.uupload.ir/files/1111-removebg-preview_a260.png"/>
  
 <h1>Hi Buddy 😍</h1> 
 <p>🐱‍👤🐱‍👤 My Name Is Kasra & Im A FrontEnd Developer.</p> 
