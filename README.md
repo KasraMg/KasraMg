@@ -1,7 +1,7 @@
 <div>
    <div>
     <h1>Hi Buddy 😍</h1> 
-<p>🐱‍👤🐱‍👤 My Name Is Shahin & Im A FrontEnd Developer.</p> 
+<p>🐱‍👤🐱‍👤 My Name Is Shahin & Im A FrontEnd Developer</p> 
 <p>🎈🎈Check This  <a href='https://shahin-hastam.liara.run/'>Url</a> For More Info About Me </a> </p>
   </div>
    <p align="center"> 
