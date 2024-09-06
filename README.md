@@ -34,9 +34,7 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img class="icon" align="left"   width="32px" src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png" />
     <a href="https://mui.com/" target="_blank"> <img class="icon" align="left"   width="32px" src="https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png" />
     
- <a  href="https://web.dev/explore/progressive-web-apps" target="_blank"><img style=' width: 51px' height='31px' class="icon" align="left" alt="pwa"  src="https://assets.browserlondon.com/wp-content/uploads/2019/03/pwa-banner.png" />
-  
-
+ <a  href="https://web.dev/explore/progressive-web-apps" target="_blank"><img style=' width: 51px' height='31px' class="icon" align="left" alt="pwa"  src="https://assets.browserlondon.com/wp-content/uploads/2019/03/pwa-banner.png" /> 
 </div>
 
 <br />
