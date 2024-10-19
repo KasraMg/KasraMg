@@ -1,4 +1,4 @@
- <div align="center" >
+<div align="center" >
 
 ## Hi there 👋, I'm Shahin!
 
@@ -14,26 +14,28 @@ Tackling difficult challenges & finding appropriate & creative solutions for the
 
 </div>
  
-   <p align="center"> 
+ <p align="center"> 
    <img width="300px" src="https://s8.uupload.ir/files/1111-removebg-preview_a260.png" alt="logo"/>
-   </p> 
+</p> 
 
-
-   
  
+ <div align="center">
 ## Tech Stack
 
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![Redux](https://img.shields.io/static/v1?logo=redux&label=&message=Redux&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
-![Jest](https://img.shields.io/static/v1?logo=Jest&label=&message=Jest&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Pwa](https://img.shields.io/static/v1?logo=pwa&label=&message=Pwa&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Jest](https://img.shields.io/static/v1?logo=jest&label=&message=Jest&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![swagger](https://img.shields.io/static/v1?logo=swagger&label=&message=swagger&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Postman&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![npm](https://img.shields.io/static/v1?logo=npm&label=&message=npm&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
-
-
-</div><br />
+ 
+</div>
+</div>
+<br />
 <br />
 
 <div> 
