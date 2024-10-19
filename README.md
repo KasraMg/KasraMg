@@ -25,6 +25,7 @@ Tackling difficult challenges & finding appropriate & creative solutions for the
 
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Next](https://img.shields.io/static/v1?logo=next.js&label=&message=Next&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![Redux](https://img.shields.io/static/v1?logo=redux&label=&message=Redux&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![Pwa](https://img.shields.io/static/v1?logo=pwa&label=&message=Pwa&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![Tailwind](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=Tailwind&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
