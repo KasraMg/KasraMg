@@ -29,6 +29,7 @@ Tackling difficult challenges & finding appropriate & creative solutions for the
 ![Redux](https://img.shields.io/static/v1?logo=redux&label=&message=Redux&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![Pwa](https://img.shields.io/static/v1?logo=pwa&label=&message=Pwa&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![Tailwind](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=Tailwind&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Mui](https://img.shields.io/static/v1?logo=mui&label=&message=Mui&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![Bootstrap](https://img.shields.io/static/v1?logo=bootstrap&label=&message=Bootstrap&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![Jest](https://img.shields.io/static/v1?logo=jest&label=&message=Jest&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![Swagger](https://img.shields.io/static/v1?logo=swagger&label=&message=swagger&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
