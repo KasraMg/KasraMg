@@ -20,6 +20,7 @@ Tackling difficult challenges & finding appropriate & creative solutions for the
 
  
  <div align="center">
+  
 ## Tech Stack
 
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
