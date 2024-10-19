@@ -27,12 +27,14 @@ Tackling difficult challenges & finding appropriate & creative solutions for the
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![Redux](https://img.shields.io/static/v1?logo=redux&label=&message=Redux&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![Pwa](https://img.shields.io/static/v1?logo=pwa&label=&message=Pwa&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Tailwind](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=Tailwind&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Bootstrap](https://img.shields.io/static/v1?logo=bootstrap&label=&message=Bootstrap&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![Jest](https://img.shields.io/static/v1?logo=jest&label=&message=Jest&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
-![swagger](https://img.shields.io/static/v1?logo=swagger&label=&message=swagger&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Postman&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![npm](https://img.shields.io/static/v1?logo=npm&label=&message=npm&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Swagger](https://img.shields.io/static/v1?logo=swagger&label=&message=swagger&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![Postman](https://img.shields.io/static/v1?logo=postman&label=&message=Postman&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![Npm](https://img.shields.io/static/v1?logo=npm&label=&message=npm&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![Github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
  
 </div>
 </div>
