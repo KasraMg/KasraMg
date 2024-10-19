@@ -32,10 +32,11 @@ Tackling difficult challenges & finding appropriate & creative solutions for the
 ![Mui](https://img.shields.io/static/v1?logo=mui&label=&message=Mui&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![Bootstrap](https://img.shields.io/static/v1?logo=bootstrap&label=&message=Bootstrap&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![Jest](https://img.shields.io/static/v1?logo=jest&label=&message=Jest&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
-![Swagger](https://img.shields.io/static/v1?logo=swagger&label=&message=swagger&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![ThreeJs](https://img.shields.io/static/v1?logo=three.js&label=&message=ThreeJs&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Swagger](https://img.shields.io/static/v1?logo=swagger&label=&message=Swagger&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Postman](https://img.shields.io/static/v1?logo=postman&label=&message=Postman&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![Npm](https://img.shields.io/static/v1?logo=npm&label=&message=npm&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
-![Git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![Npm](https://img.shields.io/static/v1?logo=npm&label=&message=Npm&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
  
 </div>
