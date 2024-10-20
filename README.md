@@ -1,3 +1,5 @@
+![header](/src/cover.jpg)
+
 <div align="center" >
 
 ## Hi there 👋, I'm Shahin!
@@ -13,12 +15,11 @@ Tackling difficult challenges & finding appropriate & creative solutions for the
 <a href="https://www.linkedin.com/in/shahinmg85/">![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=ff0000&logoColor=fff)</a>
 
 </div>
- 
- <p align="center"> 
-   <img width="300px" src="https://s8.uupload.ir/files/1111-removebg-preview_a260.png" alt="logo"/>
-</p> 
+  
+ <div> 
+    <img  src='https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true' />
+</div>
 
- 
  <div align="center">
   
 ## Tech Stack
@@ -40,13 +41,9 @@ Tackling difficult challenges & finding appropriate & creative solutions for the
 ![Github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
  
 </div>
-</div>
-<br />
-<br />
+</div> 
 
-<div> 
-    <img  src='https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true' />
-</div>
+
 
  
  
