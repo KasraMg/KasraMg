@@ -16,9 +16,7 @@ Tackling difficult challenges & finding appropriate & creative solutions for the
 
 </div>
   
- <div> 
-    <img  src='https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true' />
-</div>
+
 
  <div align="center">
   
@@ -42,7 +40,9 @@ Tackling difficult challenges & finding appropriate & creative solutions for the
 </div>
 </div> 
 
-
+ <div> 
+    <img  src='https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true' />
+</div>
 
  
  
