@@ -16,7 +16,7 @@ Tackling difficult challenges & finding appropriate & creative solutions for the
 
 </div>
   
- <div align="center">
+<div align="center">
   
 ## Tech Stack
 
