@@ -10,7 +10,6 @@
 Tackling difficult challenges & finding appropriate & creative solutions for them is one of my favorite aspects of work.
 
 <div align="center">
-
 <a href="https://shahin.liara.run/">![CV](https://img.shields.io/static/v1?logo=bookstack&message=CV&label=&color=ff0000&logoColor=fff&style=flat-square)</a>
 <a href="https://www.linkedin.com/in/shahinmg85/">![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=ff0000&logoColor=fff)</a>
 
