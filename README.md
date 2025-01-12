@@ -6,7 +6,7 @@
 
 </div>
 
-> Frontend Developer with over 3 years of experience in designing and developing websites using modern technologies such as React, Next.js, and TypeScript. I pay great attention to details & coding standards, striving to deliver the best possible results in my projects, both technically & in terms of user experience
+> Frontend Developer with over 3 years of experience in designing and developing websites using modern technologies such as React, Next.js, and TypeScript. I pay great attention to details and coding standards, striving to deliver the best possible results in my projects, both technically & in terms of user experience
 Tackling difficult challenges & finding appropriate & creative solutions for them is one of my favorite aspects of work.
 
 <div align="center">
