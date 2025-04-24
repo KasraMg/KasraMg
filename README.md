@@ -39,7 +39,7 @@ Tackling difficult challenges & finding appropriate & creative solutions for the
 </div> 
 
  <div> 
-    <img alt="logo" src='https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true' alt="logo" />
+    <img alt="logo" src='https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true' />
 </div>
 
  
