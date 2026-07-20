@@ -6,8 +6,7 @@
 
 </div>
 
-> Frontend Developer with over 3 years of experience in designing and developing websites using modern technologies such as React, Next.js, and TypeScript. I pay great attention to details and coding standards, striving to deliver the best possible results in my projects, both technically & in terms of user experience
-Tackling difficult challenges & finding appropriate & creative solutions for them is one of my favorite aspects of work.
+> Frontend Developer with 4+ years of experience, now expanding into the backend world. Over the past year, I've been working with Node.js, Express, MongoDB, and Redis — building full-stack features and deepening my understanding of how systems work end‑to‑end. I still love crafting polished, detail‑oriented UIs with React, Next.js, and TypeScript, but I equally enjoy tackling complex challenges on the server side — finding clean, creative solutions that hold up under real‑world use.
 
 <div align="center">
   
