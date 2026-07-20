@@ -26,6 +26,7 @@ Tackling difficult challenges & finding appropriate & creative solutions for the
 ![express](https://img.shields.io/static/v1?logo=express&label=&message=Express&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![redis](https://img.shields.io/static/v1?logo=redis&label=&message=Redis&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![Redux](https://img.shields.io/static/v1?logo=redux&label=&message=Redux&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Mongodb](https://img.shields.io/static/v1?logo=redis&label=&message=Redis&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Pwa](https://img.shields.io/static/v1?logo=pwa&label=&message=Pwa&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![Tailwind](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=Tailwind&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
 ![Mui](https://img.shields.io/static/v1?logo=mui&label=&message=Mui&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
